@@ -37,7 +37,7 @@
                     class="sm:absolute sm:top-0 sm:right-0 lg:top-0 lg:left-0 sm:ml-32 h-full w-40 sm:h-72 sm:w-72 object-cover" />
             </div>
             <div class="mt-10 py-10 sm:mt-0 text-center sm:text-left">
-                <h2 class="w-full text-3xl text-indigo-500 font-bold lg:w-52 sm:text-4xl">About the University of
+                <h2 class="w-full text-3xl text-indigo-500 font-bold sm:text-4xl">About the University of
                     MIA</h2>
 
                 <p class="mt-4 leading-loose text-gray-600">
